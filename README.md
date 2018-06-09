@@ -8,7 +8,7 @@ I tried to restrict the cross references of resources to [kubernetes.io](kuberne
 
 Ensure you have the right version of Kubernetes documentation selected (e.g. v1.10.2 as of May 2018 exam) especially for API objects and annotations.
 
-## URLs
+## Links
 
 - [Certified Kubernetes Administrator (CKA) Program](https://www.cncf.io/certification/CKA/)
 
