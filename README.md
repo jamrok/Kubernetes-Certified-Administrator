@@ -12,6 +12,12 @@ Ensure you have the right version of Kubernetes documentation selected (e.g. v1.
 
 - [Certified Kubernetes Administrator (CKA) Program](https://www.cncf.io/certification/CKA/)
 
+## Trainings
+
+- [Introduction to Kubernetes (free)](https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#!)
+- [Kubernetes Fundamentals (paid)](https://training.linuxfoundation.org/linux-courses/system-administration-training/kubernetes-fundamentals)
+- [Kubernets for Developers (paid)](https://training.linuxfoundation.org/linux-courses/development-training/kubernetes-for-developers)
+
 ## Exam Objectives
 
 These are the exam objectives you review and understand in order to pass the test. The objectives are current as of December 12, 2017.
